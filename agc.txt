@@ -1,0 +1,4 @@
+kucing
+anjing
+babi
+lele
